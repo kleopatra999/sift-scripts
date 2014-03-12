@@ -1,0 +1,13 @@
+Source: sift-scripts
+Section: misc
+Priority: extra
+Maintainer: Erik Kristensen <erik@erikkristensen.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.2
+
+Package: sift-scripts
+Architecture: any
+Depends: 
+Description: Random set of scripts for SIFT that do not fit in anywhere else.
+ Random set of scripts for SIFT that do not fit in anywhere else.
+ 

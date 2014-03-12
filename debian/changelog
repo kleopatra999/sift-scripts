@@ -1,0 +1,5 @@
+sift-scripts (3.0-ubuntu1) precise; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Erik Kristensen <erik@erikkristensen.com>  Sat, 07 Dec 2013 09:26:34 -0500

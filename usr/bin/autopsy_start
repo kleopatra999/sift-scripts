@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo /usr/local/src/autopsy/autopsy -C &
+sleep 1
+sudo /usr/bin/firefox http://localhost:9999/autopsy &
