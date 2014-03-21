@@ -26,7 +26,7 @@ my %config;
 Getopt::Long::Configure("prefix_pattern=(-|\/)");
 GetOptions(\%config,qw(reg|r=s file|f=s csv|c guess|g plugin|p=s list|l help|?|h));
 
-my $plugindir = '/usr/local/src/regripper/plugins/';
+my $plugindir = '/usr/share/regripper/plugins/';
 my $VERSION = "20080419";
 
 if ($config{help} || !%config) {
